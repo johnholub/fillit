@@ -1,6 +1,5 @@
 ## Compiling
-Run `make`, an executable called `fillit` should compile directly. Please submit
-an issue if you run into any.
+Run `make`, an executable called `fillit` should compile directly.
 
 ## Usage
 `./fillit [file]`
